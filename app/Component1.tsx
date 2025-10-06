@@ -1,5 +1,4 @@
 import React from 'react';
-import IMAGEPROFILE from '/public/image-profile-desktop.webp';
 
 const Component1 = () => {
   return (
